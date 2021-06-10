@@ -4363,7 +4363,7 @@
 4362,4.000000,3.750000 
 4363,4.000000,3.875000 
 4364,4.000000,4.000000 
-*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=8 
+*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=800 
 1,2
 *Element, type=U4 
 1,32,65,66,33 
@@ -6613,7 +6613,7 @@
 3145,3858,3875,3876,3859 
 3146,3857,3874,3875,3858 
 3147,3856,3873,3874,3857 
-*User element, nodes=5,type=U5, properties=3,coordinates=2, variables=8 
+*User element, nodes=5,type=U5, properties=3,coordinates=2, variables=800 
 1,2
 *Element, type=U5 
 302,349,350,351,317,316 
@@ -7283,7 +7283,7 @@
 2507,3879,3878,3877,3906,3907 
 2508,3877,3876,3875,3905,3906 
 2509,3875,3874,3873,3904,3905 
-*User element, nodes=6,type=U6, properties=3,coordinates=2, variables=8 
+*User element, nodes=6,type=U6, properties=3,coordinates=2, variables=800 
 1,2
 *Element, type=U6 
 333,351,367,393,394,395,352 
@@ -7510,7 +7510,7 @@
 2478,3797,3788,3783,3782,3781,3796 
 2482,3818,3811,3799,3798,3797,3817 
 2485,3826,3825,3824,3835,3850,3851 
-*User element, nodes=7,type=U7, properties=3,coordinates=2, variables=8 
+*User element, nodes=7,type=U7, properties=3,coordinates=2, variables=800 
 1,2
 *Element, type=U7 
 430,1598,1597,1596,1754,1999,2000,2001 

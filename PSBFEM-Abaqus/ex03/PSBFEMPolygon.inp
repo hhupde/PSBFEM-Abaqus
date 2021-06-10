@@ -305,7 +305,7 @@
 304,1.875146,-0.000000 
 305,1.997115,0.126331 
 306,2.000895,-0.000000 
-*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=8 
+*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U4 
 23,49,50,45,32 
@@ -319,7 +319,7 @@
 127,286,287,276,275 
 138,17,30,31,15 
 149,304,306,305,303 
-*User element, nodes=5,type=U5, properties=3,coordinates=2, variables=8 
+*User element, nodes=5,type=U5, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U5 
 2,142,155,157,156,140 
@@ -366,7 +366,7 @@
 145,18,20,21,13,8 
 147,78,95,94,76,77 
 152,95,111,110,93,94 
-*User element, nodes=6,type=U6, properties=3,coordinates=2, variables=8 
+*User element, nodes=6,type=U6, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U6 
 1,85,102,104,103,89,86 
@@ -453,7 +453,7 @@
 148,219,240,241,242,225,218 
 150,241,257,259,260,245,242 
 151,139,152,153,150,136,135 
-*User element, nodes=7,type=U7, properties=3,coordinates=2, variables=8 
+*User element, nodes=7,type=U7, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U7 
 43,137,140,156,154,152,139,138 

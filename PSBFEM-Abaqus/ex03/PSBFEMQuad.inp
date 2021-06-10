@@ -181,7 +181,7 @@
     178,   1.97272265,  0.329189181
     179,   1.99316895,  0.165158689
     180,           2.,           0.
-*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=8 
+*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U4 
   1,   1,   2,  22,  21

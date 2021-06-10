@@ -2477,7 +2477,7 @@
 2476,1.001953,0.751953 
 2477,1.001953,0.876953 
 2478,1.001953,1.001953 
-*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=8 
+*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U4 
 1,16,223,224,17 
@@ -3496,7 +3496,7 @@
 1630,2376,2395,2396,2377 
 1631,2375,2394,2395,2376 
 1632,2374,2393,2394,2375 
-*User element, nodes=5,type=U5, properties=3,coordinates=2, variables=8 
+*User element, nodes=5,type=U5, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U5
 5,223,368,475,476,224 
@@ -3880,7 +3880,7 @@
 1133,2351,2350,2349,2388,2389 
 1139,2397,2396,2395,2414,2415 
 1140,2395,2394,2393,2413,2414 
-*User element, nodes=6,type=U6, properties=3,coordinates=2, variables=8 
+*User element, nodes=6,type=U6, properties=3,coordinates=2, variables=800
 1,2 
 *Element, type=U6 
 2,15,47,221,222,223,16 

@@ -160,14 +160,14 @@
 159,0.000000,0.266295 
 160,0.229552,0.000000 
 161,0.000000,0.000000 
-*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=8 
+*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U4 
 10,8,1,2,9 
 32,161,160,158,159 
 40,154,153,145,146 
 57,9,2,3,10 
-*User element, nodes=5,type=U5, properties=3,coordinates=2, variables=8 
+*User element, nodes=5,type=U5, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U5 
 2,25,17,18,27,26 
@@ -211,7 +211,7 @@
 75,28,20,19,24,29 
 78,111,110,103,101,109 
 79,82,83,75,73,81 
-*User element, nodes=6,type=U6, properties=3,coordinates=2, variables=8 
+*User element, nodes=6,type=U6, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U6 
 1,42,41,31,30,38,40 
@@ -246,7 +246,7 @@
 76,114,115,106,104,105,112 
 77,139,138,128,126,127,136 
 80,98,99,90,88,89,97 
-*User element, nodes=7,type=U7, properties=3,coordinates=2, variables=8 
+*User element, nodes=7,type=U7, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U7 
 18,21,22,12,11,15,19,20 

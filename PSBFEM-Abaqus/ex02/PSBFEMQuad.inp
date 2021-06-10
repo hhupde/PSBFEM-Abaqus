@@ -370,7 +370,7 @@
     364,  0.410397053,  0.832983136
     365,   0.41400215,  0.888762534
     366,  0.417567015,  0.944459975
-*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=8 
+*User element, nodes=4,type=U4, properties=3,coordinates=2, variables=800 
 1,2 
 *Element, type=U4 
   1,   1,  12, 114,  45
