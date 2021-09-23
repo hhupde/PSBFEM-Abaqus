@@ -13,4 +13,14 @@ mesh refinement. The implementation of PSBFEM-UEL can conveniently use arbitrary
 quadtree discretizations in the Abaqus.
 
 ## Citation
-
+If you use PSBFEM-Abaqus for academic research, you are encouraged to cite the following paper:
+'''
+@article{ye2021psbfem,
+  title={PSBFEM-Abaqus: Development of User Element Subroutine (UEL) for Polygonal Scaled Boundary Finite Element Method in Abaqus},
+  author={Ye, Nan and Su, Chao and Yang, Yang},
+  journal={Mathematical Problems in Engineering},
+  volume={2021},
+  year={2021},
+  publisher={Hindawi}
+}
+'''
