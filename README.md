@@ -14,7 +14,8 @@ quadtree discretizations in the Abaqus.
 
 ## Citation
 If you use PSBFEM-Abaqus for academic research, you are encouraged to cite the following paper:
-'''
+
+```
 @article{ye2021psbfem,
   title={PSBFEM-Abaqus: Development of User Element Subroutine (UEL) for Polygonal Scaled Boundary Finite Element Method in Abaqus},
   author={Ye, Nan and Su, Chao and Yang, Yang},
@@ -23,4 +24,4 @@ If you use PSBFEM-Abaqus for academic research, you are encouraged to cite the f
   year={2021},
   publisher={Hindawi}
 }
-'''
+```
